@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="250" src="web design GIF on GIFER.gif"  />
+<img align="right" height="250" src="web design GIF on GIFER.gif"  />
 
 ###
 
